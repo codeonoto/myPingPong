@@ -1,0 +1,20 @@
+{
+  "name": "ping-pong-game",
+  "version": "1.0.0",
+  "description": "Ever heard of 'Ping Pong'? You might have; if not go search on the web.\nWell, we will be making a smaller and easier version of this game.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
